@@ -2,6 +2,8 @@
 
 This is a content management system to manage a professional photographer's portfolio. The client can add, delete, or manage different essential sections of his portfolio.
 
+Media is stored and hosted on Cloudinary. the CMS manages media by uploading it to [cloudinary](https://cloudinary.com/)'s API which then returns the URL to the uploaded media, then the URL is sent to the backend and stored using MongoDB.
+
 ## Usecases
 - Sign-in, forgot password, reset passord
 - Manage CMS account
@@ -17,6 +19,7 @@ This is a content management system to manage a professional photographer's port
 - ReactJs
 - Redux
 - Styled components
+- Cloudinary
 
 You can view or test the usecases of the CMS using the demo [here](https://mh-cms-demo.netlify.app/), use this email and password to sign in, 
 - demo@gmail.com 
