@@ -4,6 +4,8 @@ This is a content management system to manage a professional photographer's port
 
 Media is stored and hosted on Cloudinary. the CMS manages media by uploading it to [cloudinary](https://cloudinary.com/)'s API which then returns the URL to the uploaded media, then the URL is sent to the backend and stored using MongoDB.
 
+Continuously intergrated and deployed on [Netlify](https://www.netlify.com/)
+
 ## Usecases
 - Sign-in, forgot password, reset passord
 - Manage CMS account
