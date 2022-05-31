@@ -28,3 +28,4 @@ You can view or test the usecases of the CMS using the demo [here](https://mh-cm
 - Demo123#
 
 [Link to the actual CMS (authorized access to client only)](https://mh-cms.netlify.app/).
+[Link to the demo CMS (use the above demo account)](https://mh-cms-demo.netlify.app/).
